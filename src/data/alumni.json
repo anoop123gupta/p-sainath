@@ -32,5 +32,12 @@
         "about": "Khushboo did her schooling through the help of NEEV Foundation. She joined NavGurukul when she was 16 and can currect code well in ReactJS, Python and Node.js",
         "post": "Impact Scout, Delhi",
         "linkedin": "https://www.linkedin.com/in/khushboopandit/"
-    }
+    },
+	{
+	"name":"Anoop Gupta",
+	"img":"assets/img/alumni/anoop.jpg",
+	"about":"Anoop Gupta from UP completed his graduation and joined NavGurukul He was totally unknown from programming. He is  working in Repup as a Software Developer",
+	"post":" Repup, Gurgaon",
+	"linkedin":"https://www.linkedin.com/in/anoop-gupta-576536168/" 	
+}
 ]
